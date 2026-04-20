@@ -1,21 +1,101 @@
-# 💫 About Me:
-- 🔭 I’m currently working on **AWS, DevOps, and cloud automation projects**<br>- 👯 I’m looking to collaborate on **cloud, DevOps, and backend projects**<br>- 🤝 I’m looking for help with **Kubernetes, Terraform, and production-grade DevOps practices**<br>- 🌱 I’m currently learning **advanced AWS, Docker, Kubernetes, Terraform, and CI/CD**<br>- 💬 Ask me about **AWS, Python, serverless projects, CI/CD, and cloud monitoring**<br>- ⚡ Fun fact **I prefer building real projects over only collecting certificates**
+<h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
+<h3 align="center">Cloud & DevOps Engineer | AWS | Python | Linux | Docker | CI/CD | Automation</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hi_m_anshu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Himanshu Yadav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hy12042003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hy12042003@gmail.com) 
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hy3333&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hy3333&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hy3333&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  I build practical cloud and DevOps projects focused on AWS, serverless systems, monitoring, automation, and infrastructure workflows.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hy3333&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me:
+- 🔭 I’m currently working on **AWS, DevOps, and cloud automation projects**
+- 👯 I’m looking to collaborate on **cloud, DevOps, backend, and automation projects**
+- 🤝 I’m looking for help with **Kubernetes, Terraform, and production-grade DevOps practices**
+- 🌱 I’m currently learning **advanced AWS, Docker, Kubernetes, Terraform, and CI/CD**
+- 💬 Ask me about **AWS, Python, serverless APIs, CI/CD, and cloud monitoring**
+- ⚡ Fun fact: **I prefer building real projects over only collecting certificates**
+
+---
+
+# 🚀 Featured Projects:
+
+### 🔹 AWS Serverless Events API
+Built a **serverless event management API** using **AWS Lambda, API Gateway, DynamoDB, Python, and CI/CD automation**.
+
+### 🔹 Cloud Monitoring & Auto-Remediation System
+Developed an **AWS-based monitoring and automated remediation solution** using **CloudWatch, EventBridge, Lambda, SNS, and infrastructure automation**.
+
+### 🔹 DevSecOps GitOps Platform
+A hands-on project to explore **Docker, Kubernetes, CI/CD, security scanning, and monitoring workflows** in a modern DevOps setup.
+
+### 🔹 SQL Security Tool
+Created a **Python-based SQL injection testing tool** for identifying common form-based web security flaws.
+
+### 🔹 Port Inspector
+Built a **multithreaded Python port scanner** to detect open ports and map them to their associated services.
+
+---
+
+# 🌐 Connect With Me:
+<p align="left">
+<a href="https://linkedin.com/in/himanshu-yadav-12apr/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/hy12042003" target="blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+<a href="mailto:hy12042003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/_hi_m_anshu_" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</p>
+
+---
+
+# 💻 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_SAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+---
+
+# 📈 Current Focus:
+- Building **job-ready AWS and DevOps projects**
+- Improving **CI/CD, infrastructure automation, and observability**
+- Learning **Kubernetes, Terraform, and production-level cloud practices**
+- Strengthening **backend + cloud integration skills**
+
+---
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hy3333&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=hy3333&theme=highcontrast&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hy3333&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+# ✍️ Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hy3333&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+</p>
