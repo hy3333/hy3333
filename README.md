@@ -34,5 +34,5 @@ A hands-on DevOps project focused on CI/CD, containerization, security scanning,
 - Building job-ready cloud engineering projects
 
 ## Connect With Me
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: [https://www.linkedin.com/in/himanshu-yadav-12apr/]
 - GitHub: [https://github.com/hy3333](https://github.com/hy3333)
